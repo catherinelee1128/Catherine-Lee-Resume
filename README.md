@@ -1,2 +1,2 @@
 # Catherine-Lee-Resume
- https://github.com/catherinelee1128/Catherine-Lee-Resume.git
+https://catherinelee1128.github.io/Catherine-Lee-Resume/
